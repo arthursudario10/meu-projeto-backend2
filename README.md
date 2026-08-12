@@ -1,5 +1,5 @@
 # meu-projeto-backend2
-# Backend com Express e TypeScript
+# Backend com Express e Typescript
 
 Este projeto apresenta a configuração de um ambiente backend utilizando **Node.js, TypeScript e Express**, desde a preparação do ambiente até a execução de um servidor web.
 
